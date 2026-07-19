@@ -27,6 +27,9 @@ How did revenue change over time?
 Revenue increased steadily throughout 2017, reaching its highest levels in mid-2018 before stabilising. The decline observed in the final months is likely due to incomplete data rather than reduced business performance.
 
 ### Recommendation
+- The company needs to investigate the factors that contributed to the periods of strong revenue growth and replicate sucessessful sales or marketing strategies.
+- The decline in the final months of the current data needs to be investigated to validate if its dues to incomplete data before making business decisions.
+
 
 ## Business Question 2
 Which product categories generated the highest revenue?
@@ -37,7 +40,8 @@ Which product categories generated the highest revenue?
 Health and Beauty generated the highest revenue, followed by Watches and Gifts, and Bed, Bath & Table. These categories consistently outperformed the rest of the marketplace.
 
 ### Recommendation
-
+- The company should continue investing in high-performing product categories through targeted marketing and inventory optiomization.
+- The low-performing categories needs to be evaluated to determine wheather they should be improved by any means, repositioned, or discontinued.
 
   
 ## Business Question 3
@@ -49,7 +53,8 @@ How did delivery time affect customer satisfaction?
 Orders delivered within seven days received the highest average ratings. Customer satisfaction declined progressively as delivery times increased, with deliveries exceeding 30 days receiving the lowest ratings.
 
 ### Recommendation
-Prioritise maintaining delivery times below two weeks by reviewing logistics performance in slower regions and investigating bottlenecks within the fulfilment process.
+- Prioritise maintaining delivery times below two weeks by reviewing logistics performance in slower regions and investigating bottlenecks within the fulfilment process.
+- Where possible, work closely with logistics partners to reduce avoidable delays.
 
 ## Business Question 4
 Which cities experienced the longest delivery times?
@@ -60,7 +65,8 @@ Which cities experienced the longest delivery times?
 Within Brazil, several cities experienced significantly longer delivery times than the average with some deliveries extending over a period of 100 days, suggesting regional logistics challenges that may require further investigation.
 
 ### Recommendation
-
+- Investigate the operational and logistical factors contributing to longer delivery times in affected cities.
+- Consider expanding warehouse coverage or partnering closely with logistics partners to reduce avoidable delays.
 
 ## Business Question 5
 Which payment methods were used most frequently?
@@ -71,7 +77,7 @@ Which payment methods were used most frequently?
 Credit card payments accounted for the overwhelming majority of transaction value, indicating a strong customer preference for this payment method.
 
 ### Recommendation
-
+- Review the customer payment experience to identify barriers to using alternative payment methods, and introduce targeted incentives to encourage greater adoption and diversify payment preferences.
 
 
 # Final Dashboard
